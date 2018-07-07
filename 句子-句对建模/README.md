@@ -28,5 +28,8 @@
 
 ### 句对建模
 #### He & Lin, 2016
-> [[src](http://www.aclweb.org/anthology/N/N16/N16-1108.pdf)]
+> [[src](http://www.aclweb.org/anthology/N/N16/N16-1108.pdf)] [[pdf](../papers/Pairwise-Word-Interaction-Modeling-with-Deep-Neural-Networks-for-Semantic-Similarity-Measurement.pdf)]
 - [Wuwei Lan & Wei Xu, 2018](#wuwei-lan--wei-xu-2018) 中提到的一个经典句对模型
+- 模型同时用到了 LSTM 和 CNN，其中 bi-LSTM 用于句子编码，CNN 用于分类；
+
+  同时加入了不少描述词、句“距离”的 **trick**，值得参考
