@@ -7,6 +7,7 @@
 - [多模态词向量](#多模态词向量)
   - [模型典型结构](#模型典型结构)
 - [文献](#文献)
+- [Reference](#reference)
 
 <!-- /TOC -->
 
@@ -27,3 +28,13 @@
 
 
 ## 文献
+- To-Read
+  - [Deep Multimodal Semantic Embeddings for Speech and Images](https://arxiv.org/abs/1511.03690)
+  - [Multimodal Semantic Learning from Child-Directed Input](http://www.aclweb.org/anthology/N16-1043)
+  - [Full-Network Embedding in a Multimodal Embedding Pipeline](http://www.aclweb.org/anthology/W17-7304)
+  - [Better Text Understanding Through Image-To-Text Transfer](https://arxiv.org/abs/1705.08386)
+  - 
+
+
+## Reference
+- [Multimodal learning](https://en.wikipedia.org/wiki/Multimodal_learning) - Wikipedia 
